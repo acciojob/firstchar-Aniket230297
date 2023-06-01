@@ -9,7 +9,6 @@ function firstChar(text) {
   return '';
 	
 }
-
 // Do not change the code below
 
 const text = prompt("Enter text:");
